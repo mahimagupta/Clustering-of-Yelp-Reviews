@@ -1,0 +1,34 @@
+{"algorithm" : "K-Means",
+
+"WSSSE" : "234.74144095719376",
+
+"clusters" : [ 
+
+{ "id" : 1,
+"size" : 1,
+"error" : 0.0,
+"terms" : [ "car","called","said","call","us","told","company","done","work","never" ] },
+
+{ "id" : 2,
+"size" : 322,
+"error" : 75.27211792713936,
+"terms" : [ "pizza","chicken","salad","sauce","thai","delicious","good","food","beef","restaurant" ] },
+
+{ "id" : 3,
+"size" : 228,
+"error" : 53.7286855247033,
+"terms" : [ "sheiftalia","tzaziki","lemonyness","pitas","latenight","330","til","coated","tempe","regret" ] },
+
+{ "id" : 4,
+"size" : 297,
+"error" : 69.86690968664139,
+"terms" : [ "food","us","good","place","room","great","service","beer","restaurant","time" ] },
+
+{ "id" : 5,
+"size" : 152,
+"error" : 35.87372781870969,
+"terms" : [ "hair","coffee","store","like","place","love","go","great","really","im" ] }
+
+]
+
+}

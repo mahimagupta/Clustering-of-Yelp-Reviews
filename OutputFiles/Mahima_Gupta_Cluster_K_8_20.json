@@ -1,0 +1,49 @@
+{"algorithm" : "K-Means",
+
+"WSSSE" : "2217779.7411144003",
+
+"clusters" : [ 
+
+{ "id" : 1,
+"size" : 1,
+"error" : 0.0,
+"terms" : [ "w","excellent","sure","made","tacos","valentines","make","could","food","id" ] },
+
+{ "id" : 2,
+"size" : 1,
+"error" : 0.0,
+"terms" : [ "sauce","nobu","one","2","jalapeno","tables","get","must","amazing","thinking" ] },
+
+{ "id" : 3,
+"size" : 85,
+"error" : 648728.8112785511,
+"terms" : [ "like","would","one","food","place","time","us","back","menu","get" ] },
+
+{ "id" : 4,
+"size" : 1,
+"error" : 0.0,
+"terms" : [ "great","beef","delicious","cant","amazing","place","flavor","food","also","id" ] },
+
+{ "id" : 5,
+"size" : 3,
+"error" : 16963.564971616725,
+"terms" : [ "dish","night","one","et","came","dishes","menu","cod","sauce","meal" ] },
+
+{ "id" : 6,
+"size" : 1,
+"error" : 0.0,
+"terms" : [ "tires","tire","rotation","got","said","since","mark","records","brians","fluids" ] },
+
+{ "id" : 7,
+"size" : 906,
+"error" : 1538195.6934185033,
+"terms" : [ "good","place","like","food","great","get","one","time","go","service" ] },
+
+{ "id" : 8,
+"size" : 1,
+"error" : 0.0,
+"terms" : [ "ugly","chinese","amazing","mexican","places","hadnt","word","3","many","better" ] }
+
+]
+
+}

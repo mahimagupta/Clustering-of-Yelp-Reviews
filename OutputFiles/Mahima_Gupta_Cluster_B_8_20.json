@@ -1,0 +1,49 @@
+{"algorithm" : "Bisecting K-Means",
+
+"WSSSE" : "2209541.0649204813",
+
+"clusters" : [ 
+
+{ "id" : 1,
+"size" : 384,
+"error" : 372820.5629137691,
+"terms" : [ "good","place","food","great","service","get","time","like","one","back" ] },
+
+{ "id" : 2,
+"size" : 249,
+"error" : 399083.18906995206,
+"terms" : [ "great","good","like","place","food","also","one","love","go","time" ] },
+
+{ "id" : 3,
+"size" : 159,
+"error" : 331882.47693728656,
+"terms" : [ "place","like","time","one","get","good","go","back","us","would" ] },
+
+{ "id" : 4,
+"size" : 104,
+"error" : 359297.7596342312,
+"terms" : [ "get","like","good","one","back","us","would","time","also","place" ] },
+
+{ "id" : 5,
+"size" : 27,
+"error" : 126122.41655000136,
+"terms" : [ "like","food","one","time","also","would","really","us","get","good" ] },
+
+{ "id" : 6,
+"size" : 28,
+"error" : 188891.23484292894,
+"terms" : [ "like","place","food","would","good","one","even","time","much","great" ] },
+
+{ "id" : 7,
+"size" : 29,
+"error" : 214667.78865362424,
+"terms" : [ "like","one","would","back","menu","get","time","good","cheese","really" ] },
+
+{ "id" : 8,
+"size" : 19,
+"error" : 204512.86166213884,
+"terms" : [ "one","would","like","food","time","little","us","menu","back","get" ] }
+
+]
+
+}
