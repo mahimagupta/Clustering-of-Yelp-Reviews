@@ -9,4 +9,4 @@ For each cluster, the top ten frequently occurring features are identified.
 
 TASK 2
 
-Implementation Clustering Algorithms - K-Means and Bisecting K-Means using Spark with the Yelp Reviews Dataset.
+Implementation of Clustering Algorithms - K-Means and Bisecting K-Means using Spark with the Yelp Reviews Dataset.
